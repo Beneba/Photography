@@ -1,0 +1,25 @@
+
+.section-search input{
+	padding:5px !important;
+	font-size: 18px !important;
+	width: 90% !important;
+	border: #f4f4f4 3px solid !important;
+}
+.section-follow .fa-4x{
+	margin: 10px 10px;
+
+}
+.nav ul a {
+	transition: background-color .3s;
+	font-size: 1rem;
+	color: #fefefe;
+	display: block;
+	padding: 0 15px;
+	cursor: pointer;
+	background: teal;
+}
+
+
+
+
+0247563847
